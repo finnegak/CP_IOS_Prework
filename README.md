@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='![](https://imgur.com/gallery/F6iiKV8.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![](https://imgur.com/gallery/F6iiKV8)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 https://imgur.com/gallery/F6iiKV8
 
