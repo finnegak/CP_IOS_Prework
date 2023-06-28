@@ -20,7 +20,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/F6iiKV8"  ><a href="//imgur.com/a/F6iiKV8">IOS_Prework_KellyFinnegan</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='//imgur.com/a/F6iiKV8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
