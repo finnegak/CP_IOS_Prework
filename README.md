@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
 <!-- Recommended tools:
@@ -32,23 +32,23 @@ GIF created with Kap
 
 Favorite Applications
 1. TikTok
-    Easy to navigate.
-    Easy to share video to others.
-    In app editing.
+    - Easy to navigate.
+    - Easy to share video to others.
+    - In app editing.
 2. Netflix
-    Loads fast.
-    Allows downloads.
-    Athestic and easy navigation.
+    - Loads fast.
+    - Allows downloads.
+    - Athestic and easy navigation.
 3. Score
-    Good organization
-    Allow the user to favorite teams and players.
-    Allows the user to look and future and past games.
+    - Good organization
+    - Allow the user to favorite teams and players.
+    - Allows the user to look and future and past games.
     
 An app that I would like to develop would be something similar to RateMyProfessor but for university dorms and/or college apartments.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learning Xcode
 
 ## License
 
