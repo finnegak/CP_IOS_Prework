@@ -15,14 +15,13 @@ The following **required** functionality is completed:
 
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
-![](https://imgur.com/gallery/F6iiKV8)
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='![](https://imgur.com/gallery/F6iiKV8.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 https://imgur.com/gallery/F6iiKV8
-
 
 GIF created with Kap
 <!-- Recommended tools:
