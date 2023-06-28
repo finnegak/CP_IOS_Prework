@@ -20,7 +20,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='//imgur.com/a/F6iiKV8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/gallery/F6iiKV8
+
 
 GIF created with Kap
 <!-- Recommended tools:
