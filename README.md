@@ -1,11 +1,11 @@
 # CP_IOS_Prework
 CodePath Prework for IOS IOS101
 
-# Prework - *Name of App Here*
+# Prework
 
 Submitted by: Kelly Finnegan
 
-IOS_Prework is an app that... [TODO] 
+IOS_Prework is an app that... changes the background when you click a button.
 
 Time spent: 3 hours spent in total
 
@@ -22,14 +22,29 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+
+Favorite Applications
+1. TikTok
+    Easy to navigate.
+    Easy to share video to others.
+    In app editing.
+2. Netflix
+    Loads fast.
+    Allows downloads.
+    Athestic and easy navigation.
+3. Score
+    Good organization
+    Allow the user to favorite teams and players.
+    Allows the user to look and future and past games.
+    
+An app that I would like to develop would be something similar to RateMyProfessor but for university dorms and/or college apartments.
 
 ## Notes
 
