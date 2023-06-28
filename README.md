@@ -15,12 +15,14 @@ The following **required** functionality is completed:
 
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
+![](https://imgur.com/gallery/F6iiKV8)
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/gallery/F6iiKV8)
+https://imgur.com/gallery/F6iiKV8
+
 
 GIF created with Kap
 <!-- Recommended tools:
@@ -48,7 +50,8 @@ An app that I would like to develop would be something similar to RateMyProfesso
 
 ## Notes
 
-Learning Xcode
+Figuring out how to add the gif
+
 
 ## License
 
